@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://zheryn.github.io/csb-wnp9f/static/css/main.3abc4ded.chunk.css",
+    "main.js": "https://zheryn.github.io/csb-wnp9f/static/js/main.eaee4741.chunk.js",
+    "main.js.map": "https://zheryn.github.io/csb-wnp9f/static/js/main.eaee4741.chunk.js.map",
+    "runtime-main.js": "https://zheryn.github.io/csb-wnp9f/static/js/runtime-main.90a68fbe.js",
+    "runtime-main.js.map": "https://zheryn.github.io/csb-wnp9f/static/js/runtime-main.90a68fbe.js.map",
+    "static/js/2.0408cc8b.chunk.js": "https://zheryn.github.io/csb-wnp9f/static/js/2.0408cc8b.chunk.js",
+    "static/js/2.0408cc8b.chunk.js.map": "https://zheryn.github.io/csb-wnp9f/static/js/2.0408cc8b.chunk.js.map",
+    "index.html": "https://zheryn.github.io/csb-wnp9f/index.html",
+    "static/css/main.3abc4ded.chunk.css.map": "https://zheryn.github.io/csb-wnp9f/static/css/main.3abc4ded.chunk.css.map",
+    "static/js/2.0408cc8b.chunk.js.LICENSE.txt": "https://zheryn.github.io/csb-wnp9f/static/js/2.0408cc8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90a68fbe.js",
+    "static/js/2.0408cc8b.chunk.js",
+    "static/css/main.3abc4ded.chunk.css",
+    "static/js/main.eaee4741.chunk.js"
+  ]
+}
